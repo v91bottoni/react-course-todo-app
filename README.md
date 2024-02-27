@@ -1,3 +1,6 @@
+# Todo App 
+Questa è un'applicazione semplice che utilizza React e Redux per mostrare una lista di attività da fare (todo list).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
